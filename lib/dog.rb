@@ -1,4 +1,3 @@
-require 'pry'
 
 class Dog
   def name=(dog_name)
@@ -8,7 +7,6 @@ class Dog
   def name
     this_dogs_name
   end
-
 end
 
   
