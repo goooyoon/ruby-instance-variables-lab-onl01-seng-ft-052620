@@ -1,4 +1,4 @@
 require 'pry'
 
-def Dog
+class Dog
 end
